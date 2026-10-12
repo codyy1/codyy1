@@ -19,4 +19,4 @@ I'm a Software Developer and UI/UX Specialist based in Zamboanga City, Philippin
 - **Organization:** https://mihatechnologies.com/
 - **Email:** sgiancody@gmail.com
 - **Facebook:** https://www.facebook.com/giancody.salilig.58
-- **Instagram:** @thtcody
+- **Instagram:** [@thtcody](https://www.instagram.com/thtcody/)
