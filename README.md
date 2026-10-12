@@ -10,9 +10,9 @@ I'm a Software Developer and UI/UX Specialist based in Zamboanga City, Philippin
 -  **Recent Highlights:** Standardized the UI/UX framework for the WMSU DESCD web platform and developed a comprehensive campus bus scheduling system.
 
 ##  Tech Stack & Tools
-- **Languages:** JavaScript, Kotlin, Python, PHP, Java, SQL, HTML/CSS
+- **Languages:** JavaScript, HTML/CSS, Kotlin, Python, PHP, SQL, Java
 - **Frameworks & Libraries:** Django, Pandas, Scikit-learn, TensorFlow
-- **Tools:** Git, GitHub, VS Code, Android Studio, XAMPP, Postman
+- **Tools:** Git, VS Code, Figma, Android Studio, XAMPP, Postman, Cloudflare
 
 ## Connect with me
 - **Portfolio:** [link]
