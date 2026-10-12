@@ -1,4 +1,4 @@
-## Hi there, I'm Gian Cody 
+## Hello, I'm Gian Cody 
 
 ### Software Developer | UI/UX Specialist
 
